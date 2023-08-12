@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky">#DF97D7FA</color>
+    <color name="skyDegraded">#6597B3FA</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="blue">#071B63</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#72737C</color>
+    <color name="degraded">#469E9E9E</color>
+</resources>
