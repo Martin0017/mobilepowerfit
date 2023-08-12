@@ -15,7 +15,7 @@ class TabFragment2 : Fragment() {
 
         val btnIrAPremio = view.findViewById<Button>(R.id.bntPremio)
         btnIrAPremio.setOnClickListener {
-            val intent = Intent(activity, rewards_page::class.java)
+            val intent = Intent(activity, points_page::class.java)
             startActivity(intent)
         }
         return view

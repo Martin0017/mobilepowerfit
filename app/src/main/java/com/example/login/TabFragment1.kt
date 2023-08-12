@@ -15,7 +15,7 @@ class TabFragment1 : Fragment() {
 
         val btnIrAMapa = view.findViewById<Button>(R.id.bntMapa)
         btnIrAMapa.setOnClickListener {
-            val intent = Intent(activity, mapa_page::class.java)
+            val intent = Intent(activity, weekgoal_page::class.java)
             startActivity(intent)
         }
         return view

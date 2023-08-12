@@ -12,7 +12,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="20dp"
         android:background="@color/blue"
-        android:text="INICIO" />
+        android:text="INICIAR ACTIVIDAD" />
 
     <TextView
         android:id="@+id/modeText"
@@ -22,7 +22,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="20dp"
         android:text="MODO CAMINATA ACTIVADO"
-        android:textColor="@android:color/white"
+        android:textColor="@color/blue"
         android:textSize="18sp"
         android:textStyle="bold" />
 
@@ -53,7 +53,7 @@
         android:layout_alignStart="@id/circle1"
         android:layout_marginTop="10dp"
         android:text="  Distancia"
-        android:textColor="@android:color/white"
+        android:textColor="@color/blue"
         android:textSize="16sp" />
 
     <ImageView
@@ -73,7 +73,7 @@
         android:layout_alignStart="@id/circle2"
         android:layout_marginTop="10dp"
         android:text="   Velocidad"
-        android:textColor="@android:color/white"
+        android:textColor="@color/blue"
         android:textSize="16sp" />
 
     <ImageView
@@ -94,7 +94,7 @@
         android:layout_alignStart="@id/circle3"
         android:layout_marginTop="10dp"
         android:text=" Pasos dados"
-        android:textColor="@android:color/white"
+        android:textColor="@color/blue"
         android:textSize="16sp" />
 
 </RelativeLayout>
